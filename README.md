@@ -1,2 +1,17 @@
 # trade_wishper
-TradeWhisper: AI-powered trade idea analyzer with real-time stock info, charts, and news. Built using FastAPI + Cohere + yFinance, designed for fintech productivity and clarity.
+# TradeWhisper 🧠📈
+
+**TradeWhisper** is a lightweight AI-powered fintech tool that analyzes natural language trade ideas using LLMs, and provides contextual data like stock stats, breakout indicators, charts, and news.
+
+## Features
+- 🔍 LLM-based trade idea analysis (Cohere)
+- 📊 Real-time stock info using yFinance
+- 📈 Chart data for 6-month trends
+- 📰 Simulated latest and impactful news
+
+## Stack
+- FastAPI (Python)
+- Cohere LLM API
+- yFinance
+- Dotenv
+
