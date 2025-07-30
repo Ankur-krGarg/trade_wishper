@@ -6,5 +6,4 @@ streamlit-autorefresh
 plotly
 fastapi
 cohere
-yfinance
-dotenv
+python-dotenv
