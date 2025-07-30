@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 
 # ------------------ CONFIG ------------------
 st.set_page_config(layout="wide", page_title="TradeWhisper Dashboard", page_icon="📊")
-API_BASE = "https://trade-backend.onrender.com"  # Adjust if your FastAPI server is remote
+API_BASE = "https://trade-wishper-0uyh.onrender.com"  # Adjust if your FastAPI server is remote
 
 # ------------------ COUNTRY → SUFFIX MAPPING ------------------
 market_suffix = {
