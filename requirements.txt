@@ -4,3 +4,8 @@ yfinance
 pandas
 streamlit-autorefresh
 plotly
+fastapi
+cohere
+yfinance
+dotenv
+json
